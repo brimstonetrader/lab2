@@ -1,0 +1,1543 @@
+fileFormatVersion: 2
+guid: eedf98a8d1f33a343b9906f26d9bcc93
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floortileset_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 218.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5aea9b778a84c4197f3171f47df26f
+      internalID: -842131288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 218.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdddb1814e12fb4985c2ef5c5a7ab94
+      internalID: 1099050235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 218.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5662124e7ea9c2e4380e7f1e732ff0ba
+      internalID: -628575714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 218.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16037a5220214cf42a6b82761de629e9
+      internalID: 1836415196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 218.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dea64c458b37e244a251df15a5245a7
+      internalID: 744728212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: standard_ground
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 218.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800e4d36debe5344ba280c0b14d2dd4e
+      internalID: 796112035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 218.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869306fac8339534f9da0ade0a899c07
+      internalID: -84142513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 218.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32da9bafd9c161a4f8ee0aa955894c3f
+      internalID: -83646932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 187.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d985d4f26e898e14084ca9b3c2fceb80
+      internalID: -1676288677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 187.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237a93ad08f4e2a47b00febb729f9a07
+      internalID: 56610070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 187.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8881adfe0d8264b9dca3a4052c6cd7
+      internalID: -642375093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 187.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e173dbf656ee043951f6fb2e4d3e96
+      internalID: 1288132021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 187.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d35c21b50b6b24eb58cf6df2056855
+      internalID: 2020154941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 187.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97630d13ec3ce448ae6c1d6f5e4e0e4
+      internalID: 584991630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 187.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b73de9c1642d214e85d140e8076a678
+      internalID: 446015935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 187.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c602c4c17a76544ba0a28d29bc5e22
+      internalID: -522810205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7e8739aeb09c542abe9b8119c3e25a
+      internalID: -118093944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 156.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d09008a47c6af41ac2e18554197bd3
+      internalID: 1009550687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 156.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc211c35a70f04e4cbd80592ed32f84f
+      internalID: 1765931153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 156.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a865eaf21429784c8d2a9464d985651
+      internalID: -99994604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 156.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4229cf665ac2b04593f1c3f2bb27f02
+      internalID: 224303778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 156.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b33c2fdb0206b6439ff5163628e2daa
+      internalID: 257828762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_22
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 156.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fae50a85c3bbea42a81e3cd111eda66
+      internalID: 1225053606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 156.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665122309bb44fd4ea09e6af34bb64c6
+      internalID: 2117984002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 125.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d1366ee3d3a2649b79273352873c0a
+      internalID: 120820337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 125.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1e6b78a6b8c0a489c9ed95768c51f5
+      internalID: 430913585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 125.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9357603d86ef96a49851df2074448580
+      internalID: -127009177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 125.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69cea6280a1dbb45bbf525eb0975162
+      internalID: -1618655332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 125.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ec429edf70e4c409e8205d3ca55f7a
+      internalID: -2009478115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_29
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 125.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5053880656a5c684295ab82a0f180f4a
+      internalID: 1419439614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_30
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 125.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b5fc22d0cddd04d9760123126ac6df
+      internalID: -296370620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_31
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 125.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e0f12526a421343b97d154f8fb66b2
+      internalID: -1751961999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 94.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768202778784e3e4da1a3b152ddd6acd
+      internalID: 2083009680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 94.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6571a05273af76a4395159166b0d2895
+      internalID: 1215297848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 94.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f43c257f2561af42a362ba3df82cf4e
+      internalID: -1783866240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 94.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f099ba508ccb0924987281a3a0ef6038
+      internalID: -2030164156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_36
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 94.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7965cbd805265b94689e9cde4f5d80a6
+      internalID: 1744279697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 94.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e668a3b426876a4da1c64fcbcf8f36b
+      internalID: -970165833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 94.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a261b9ecb3b2f418a536881c81311b
+      internalID: -875492151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 94.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a83ff584c807541a8503144cc9d477
+      internalID: 703390603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fe9cb253660b34584b48c0b5b94ca8
+      internalID: 1060098621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6589b414e20fbfd44b7f123e30fac172
+      internalID: -1217012681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89c6e0d57aae5e4583012aaefb22ea1
+      internalID: 21951745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aef7bb4fd622d4b87f5f7bb0c6bcc3
+      internalID: 644647138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_44
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 63.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe93e6fb24095e94db3c8933088d3784
+      internalID: -1952483184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_45
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 63.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78946eb3060ec5640aeaea7db72c1ef6
+      internalID: 49714856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_46
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 63.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180bac3b522b1264b9f63dab453e17a1
+      internalID: 1742972323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_47
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 63.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f2ddb8f3235c469e1d905221d673d
+      internalID: 565810388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1830ac7714dc33c44a7459488e2bd957
+      internalID: -642305808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 32.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7e666609493c14da39d9be596d23b4
+      internalID: -1240321400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd359c47f19fcc4aa527d3f5b00d889
+      internalID: 1383484040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_51
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 32.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408e5a200f86c4f4db5dc1f5f35a1bb7
+      internalID: 1042529290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_52
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 32.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbe834a4a3a9c84aa7f1be4830c30f2
+      internalID: 111967027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 32.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b697615ff9ed444aba2ed273f913b4a
+      internalID: -362947501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_54
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 32.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686b0f71ce10d2b49800b99bc8464452
+      internalID: -576341093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_55
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 32.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec646d4218e7c524c856ebf5fa8141cb
+      internalID: 837497076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28917ec3e9720c40928c6024c97abbc
+      internalID: 1044091517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_57
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afca9cf0379fee74a98b1f1d68ae3ff5
+      internalID: -1618693907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0299426215ab845a89afeddcec8fcf
+      internalID: -1703714315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02106910fe13c544b9669a3ca9d61737
+      internalID: 1660430754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_60
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139467230e188524c9bb4921609a1546
+      internalID: 11149223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436539301b1e4424a933769390bfbb67
+      internalID: -223634938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_62
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e9f849b46552c4d9b4974afd660a72
+      internalID: 513941403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floortileset_63
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1.75
+        width: 31
+        height: 31.25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af33598d34fde8f48b394d0c8d790fe1
+      internalID: -487407847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      floortileset_56: 1044091517
+      floortileset_63: -487407847
+      floortileset_59: 1660430754
+      floortileset_3: 1836415196
+      floortileset_4: 744728212
+      floortileset_32: 2083009680
+      floortileset_35: -2030164156
+      floortileset_26: -127009177
+      floortileset_61: -223634938
+      floortileset_9: 56610070
+      floortileset_23: 2117984002
+      floortileset_45: 49714856
+      floortileset_46: 1742972323
+      floortileset_50: 1383484040
+      floortileset_18: 1765931153
+      floortileset_49: -1240321400
+      floortileset_21: 257828762
+      floortileset_38: -875492151
+      floortileset_60: 11149223
+      floortileset_30: -296370620
+      floortileset_6: -84142513
+      floortileset_44: -1952483184
+      floortileset_37: -970165833
+      floortileset_47: 565810388
+      floortileset_51: 1042529290
+      floortileset_8: -1676288677
+      floortileset_34: -1783866240
+      standard_ground: 796112035
+      floortileset_7: -83646932
+      floortileset_43: 644647138
+      floortileset_11: 1288132021
+      floortileset_15: -522810205
+      floortileset_14: 446015935
+      floortileset_62: 513941403
+      floortileset_22: 1225053606
+      floortileset_20: 224303778
+      floortileset_40: 1060098621
+      floortileset_1: 1099050235
+      floortileset_12: 2020154941
+      floortileset_58: -1703714315
+      floortileset_17: 1009550687
+      floortileset_16: -118093944
+      floortileset_24: 120820337
+      floortileset_13: 584991630
+      floortileset_54: -576341093
+      floortileset_33: 1215297848
+      floortileset_0: -842131288
+      floortileset_10: -642375093
+      floortileset_53: -362947501
+      floortileset_25: 430913585
+      floortileset_48: -642305808
+      floortileset_55: 837497076
+      floortileset_2: -628575714
+      floortileset_27: -1618655332
+      floortileset_28: -2009478115
+      floortileset_39: 703390603
+      floortileset_29: 1419439614
+      floortileset_42: 21951745
+      floortileset_52: 111967027
+      floortileset_31: -1751961999
+      floortileset_57: -1618693907
+      floortileset_19: -99994604
+      floortileset_41: -1217012681
+      floortileset_36: 1744279697
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
