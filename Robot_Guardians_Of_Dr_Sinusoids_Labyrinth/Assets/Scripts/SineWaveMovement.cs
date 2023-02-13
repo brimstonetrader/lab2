@@ -8,6 +8,7 @@ public class SineWaveMovement : MonoBehaviour
 {
     public GameObject Robot;
     private Rigidbody2D body;
+
     public float x;
     public float y;
 
@@ -15,7 +16,9 @@ public class SineWaveMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        body = GetComponent<Rigidbody2D>();        
+        body = GetComponent<Rigidbody2D>();    
+        x = Robot.transform.position.x;
+        y = Robot.transform.position.y;
     }
 
     // Update is called once per frame
