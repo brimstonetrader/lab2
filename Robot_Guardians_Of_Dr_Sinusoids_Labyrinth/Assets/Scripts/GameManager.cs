@@ -9,7 +9,6 @@ public class GameManager : MonoBehaviour
 
     public static GameManager Instance {get; private set;}
 
-    public GameObject protag;
     public GameObject dialogBox;
     public TextMeshProUGUI dialogText;
 
@@ -33,6 +32,12 @@ public class GameManager : MonoBehaviour
             yield return new WaitForSeconds(0.02f);
         }
     }
+
+    public void startGame() {
+        protag.transform.position.(-20.6f);
+        protag.trasform.position.(-8.8f);
+    }
+
 
     void Awake() {
         if (Instance == null) {
