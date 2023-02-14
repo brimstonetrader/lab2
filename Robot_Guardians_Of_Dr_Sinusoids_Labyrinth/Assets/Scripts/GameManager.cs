@@ -9,8 +9,12 @@ public class GameManager : MonoBehaviour
 
     public static GameManager Instance {get; private set;}
 
+    public GameObject protag;
     public GameObject dialogBox;
     public TextMeshProUGUI dialogText;
+
+    public float x;
+    public float y;
 
     public void DialogShow(string text) {
         dialogBox.SetActive(true);
@@ -40,11 +44,17 @@ public class GameManager : MonoBehaviour
 
     }
 
+    public void startGame() {
+        Vector2 pos = protag.transform.position;
+        x = -20.6f;
+        y = -8.8f;
+        protag.transform.position = new Vector2(x, y);
+    }
 
     // Start is called before the first frame update
     void Start()
     {
-        
+    
     }
 
     // Update is called once per frame
