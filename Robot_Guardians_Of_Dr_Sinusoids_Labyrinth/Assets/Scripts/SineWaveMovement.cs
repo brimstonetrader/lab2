@@ -25,8 +25,8 @@ public class SineWaveMovement : MonoBehaviour
     void Update()
     {
         Vector2 pos = Robot.transform.position;
-        x += (Mathf.Sin(Time.time) / 75);
-        y += (Mathf.Cos(Time.time) / 70);
+        x += (Mathf.Sin(Time.time) / 25);
+        y += (Mathf.Cos(Time.time) / 20);
         transform.position = new Vector2(x, y);
     }
 }
