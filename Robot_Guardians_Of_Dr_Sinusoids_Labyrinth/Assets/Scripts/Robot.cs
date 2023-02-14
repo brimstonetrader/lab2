@@ -13,7 +13,7 @@ public class Robot : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D collider2D) {
         print("Entered..");
-        audio.Play();
+        StartCoroutine("Beep");
         if (collider2D.gameObject.CompareTag("Player")) {
             GameManager.Instance.DialogShow(text);
         }
@@ -22,6 +22,7 @@ public class Robot : MonoBehaviour
         if (collider2D.gameObject.CompareTag("Player")) {
             GameManager.Instance.DialogHide();
         }
+        StopCoroutine("Beep");
     }
 
 
@@ -35,5 +36,11 @@ public class Robot : MonoBehaviour
     void Update()
     {
         
+    }
+
+    IEnumerator Beep()
+    {
+        audio.Play();
+        yield return new WaitForSeconds(0.1f);
     }
 }
