@@ -33,12 +33,6 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void startGame() {
-        protag.transform.position.(-20.6f);
-        protag.trasform.position.(-8.8f);
-    }
-
-
     void Awake() {
         if (Instance == null) {
             Instance = this;
@@ -47,13 +41,6 @@ public class GameManager : MonoBehaviour
             Destroy(gameObject);
         }
 
-    }
-
-    public void startGame() {
-        Vector2 pos = protag.transform.position;
-        x = -20.6f;
-        y = -8.8f;
-        protag.transform.position = new Vector2(x, y);
     }
 
     // Start is called before the first frame update
